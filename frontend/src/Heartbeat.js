@@ -8,7 +8,7 @@ class Hearbeat extends Component {
             <div className="row">
                 <div className="col-12">
                     <Chart
-                        width={'600px'}
+                        width={'800px'}
                         height={'400px'}
                         chartType="LineChart"
                         loader={<div>Loading Chart</div>}
