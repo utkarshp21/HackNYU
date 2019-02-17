@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "c97eb7e6-8e0f-4517-874c-856bf79b28cf",
+    "appType": "app",
+    "appDisplayName": "hacknyu",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity",
+      "access_internet",
+      "access_user_profile",
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "hacknyu"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
