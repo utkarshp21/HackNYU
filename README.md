@@ -8,7 +8,7 @@ Our project embeds the user in a virtual reality environment and based on their 
 
 ## How we built it
 
-We built the VR experience using the  Occulus rift, Reeac.js, Alexa Skill Kit & Fitbit Developer Kit.
+We built the VR experience using the  Occulus rift, React.js, Alexa Skill Kit & Fitbit Developer Kit.
 
 ## Challenges we ran into
 
